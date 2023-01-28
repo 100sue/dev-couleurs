@@ -22,8 +22,12 @@ Ce projet utilisera Html, CSS, Vanilla Javascript.
  <p align="center">
  Essayez "Ma palette" : https://100sue.github.io/dev-couleurs/
  </p>
+ 
+<br>
 
- <br>
+ Essayez aussi " Generateur de gradient" : génerateur de gradiant.
+  <br>
+ - lien : https://100sue.github.io/dev-gradient/
 
  
   
