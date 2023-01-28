@@ -1,6 +1,6 @@
 const btn = document.querySelector('button');
-const color = document.querySelector('.color');
-const hex = document.querySelector('.hex');
+const color = document.querySelectorAll('.color');
+const hex = document.querySelectorAll('.hex');
 
 btn.addEventListener('click', generateColors);
 
