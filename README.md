@@ -38,10 +38,11 @@ Tant qu'a faire autant construire ces propres outils !!! :)
 <h3 align="center">"Ma Boite a outil de front-end" :</h3>
 <br>
 <p align="center">
-- " Generateur de gradient": https://100sue.github.io/dev-gradient/
+" Generateur de gradient ": https://100sue.github.io/dev-gradient/
   <br>
-- " Generateur de Qr Code" : https://100sue.github.io/dev-QR-code-generator/
+" Generateur de Qr Code " : https://100sue.github.io/dev-QR-code-generator/
 </p>
+<br>
 <br>
 <br>
 <br>
@@ -50,8 +51,6 @@ Tant qu'a faire autant construire ces propres outils !!! :)
 <img src= "https://github.com/100sue/dev-couleurs/assets/90606431/d1559167-060f-4502-b7af-5ba58d402775"/>
 </p>
 
-<br>
-  
 <h1 align="center">Web Developer - Full Stack</h1>
 
 <p style="margin: 15px;" align="center">
@@ -74,8 +73,9 @@ Tant qu'a faire autant construire ces propres outils !!! :)
 <br>
 <br>
 <p align="center">
-<img src= "https://github.com/100sue/dev-couleurs/assets/90606431/7cd26939-f375-4cc9-9713-2bfac1fb6728"/>
+<img src= "(https://github.com/100sue/dev-couleurs/assets/90606431/8af870b9-2d3a-4450-b532-0ba8e700aa99"/>
 </p>
+
  
 
 
