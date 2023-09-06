@@ -77,7 +77,7 @@ Tant qu'a faire autant construire ces propres outils !!! :)
 <br>
 <br>
 <p align="center">
-<img src= "https://github.com/100sue/dev-couleurs/assets/90606431/926e54fe-be59-4c9d-9afb-c8bff890578b" width="550" height="750/>
+<img src= "https://github.com/100sue/dev-couleurs/assets/90606431/926e54fe-be59-4c9d-9afb-c8bff890578b" width="550" height="750"/>
 </p>
 
 
