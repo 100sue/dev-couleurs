@@ -25,11 +25,12 @@ N'hesitez pas à enrichir le code par vos propres ajouts, et faites-moi un petit
 <br>
 Ce projet utilisera Html, CSS, Vanilla Javascript.
 <br>
-
+<br>
 <p align="center">
 Essayez "Ma palette" : https://100sue.github.io/dev-couleurs/
 </p>
- 
+
+<br>
 <br>
 Ce projet fait partie d'un ensemble de projet denommé "Ma Boite a outil de front-end", regroupant des generateurs de box-shadow, des generateurs de gradiant, de blob-maker, de couleurs, etc ... .
 Tant qu'a faire autant construire ces propres outils !!! :)
